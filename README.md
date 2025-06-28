@@ -79,4 +79,4 @@ This T20 World Cup analysis provides rich insights into player and team performa
 ---
 
 ## Contact Information
-For queries or collaboration opportunities, connect via [LinkedIn](https://www.linkedin.com/ajay20).
+For queries or collaboration opportunities, connect via [LinkedIn](www.linkedin.com/in/ajay20).
